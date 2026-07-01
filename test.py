@@ -1,0 +1,15 @@
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        def climb(n,memo={}):
+            if n==2:
+                return 2
+            if n==1:
+                return 1
+            # if n in memo:
+            #     return memo[n]
+            memo[n] = climb(n-1) + climb(n-2)
+            return memo[n]
+        return climb(n)
+
+c = Solution()
+print(c.climbStairs(44))
