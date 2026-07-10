@@ -3,4 +3,4 @@ venv
 wandb
 .ipynb_checkpoints
 .vscode
-Notebooks/.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints/
