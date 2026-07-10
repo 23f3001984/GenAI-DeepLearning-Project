@@ -1,3 +1,6 @@
 api keys.txt
 venv
 wandb
+.ipynb_checkpoints
+.vscode
+Notebooks/.ipynb_checkpoints
