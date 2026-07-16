@@ -4,3 +4,4 @@ wandb
 .ipynb_checkpoints
 .vscode
 Notebooks/.ipynb_checkpoints/
+Notebooks/lora_tiny_output/
