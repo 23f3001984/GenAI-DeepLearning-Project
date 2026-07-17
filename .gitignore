@@ -5,3 +5,10 @@ wandb
 .vscode
 Notebooks/.ipynb_checkpoints/
 Notebooks/lora_tiny_output/
+
+.DS_Store
+Model File/
+*.pt
+
+__pycache__/
+*.pyc
