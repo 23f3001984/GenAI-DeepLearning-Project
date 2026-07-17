@@ -45,4 +45,3 @@ To install the necessary dependencies, you can typically use:
 ```bash
 pip install -r requirements.txt
 ```
-*(Note: If a requirements file is missing, you can install the dependencies directly using pip as shown in the notebook).*
