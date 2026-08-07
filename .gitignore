@@ -12,3 +12,5 @@ Model File/
 
 __pycache__/
 *.pyc
+
+rag_artifacts/
